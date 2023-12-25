@@ -1,0 +1,5 @@
+name: deploy my azure function
+on:
+  push:
+    branches:
+      - main
